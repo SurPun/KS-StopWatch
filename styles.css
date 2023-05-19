@@ -16,6 +16,7 @@
 body {
     color: var(--light);
     background: var(--dark);
+    text-align: center;
 
 }
 
